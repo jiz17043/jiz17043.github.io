@@ -9,4 +9,4 @@ This is a simple personal website using GitHub Pages. Built with HTML, CSS, and 
 2. Push to a GitHub repo named `username.github.io`
 3. Enable GitHub Pages from repo Settings > Pages
 
-Made with ❤️ by Your Name.
+Made with ❤️ by Jintao Zhang.
