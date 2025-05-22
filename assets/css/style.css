@@ -45,13 +45,15 @@ footer {
 .timeline-item {
   position: relative;
   margin-bottom: 40px;
-  padding-left: 30px;
+  display: flex;
+  align-items: flex-start;
 }
 
 .timeline-dot {
   position: absolute;
-  left: -41px; /* aligns with the vertical line */
-  top: 8px;
+  left: -41px;
+  top: 50%;
+  transform: translateY(-50%);
   width: 20px;
   height: 20px;
   background-color: #fff;
@@ -65,16 +67,5 @@ footer {
   padding: 20px;
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  width: 100%;
 }
-
-.timeline-content h3 {
-  margin: 0;
-  font-size: 1.2em;
-  font-weight: 700;
-}
-
-.timeline-content p {
-  margin: 4px 0;
-  color: #333;
-}
-
