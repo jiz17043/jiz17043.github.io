@@ -10,3 +10,5 @@ This is a simple personal website using GitHub Pages. Built with HTML, CSS, and 
 3. Enable GitHub Pages from repo Settings > Pages
 
 Made with ❤️ by Jintao Zhang.
+
+## Also have a semantic release github action
